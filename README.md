@@ -4,5 +4,7 @@ This repository contains all the main files involved in the development of the F
 - STL Biped Robot: This folder contains all the STL files of the 3D printed parts used to build the robot.
 - analog_IMU_esp32_filter: This folder contains the Arduino codes for the stability control (the analog part is commented and not used).
 - ik_v14_esp32: This folder contains the Arduino codes for making the robot walk (mainly inverse kinematics).
-> ![Photo of the final prototype](Foto_robot.jpg)
-<img src="Foto_robot.jpg" alt="hoto of the final prototype" width="50%">
+
+<p align="center">
+  <img src="Foto_robot.jpg" alt="hoto of the final prototype" width="50%">
+</p>
