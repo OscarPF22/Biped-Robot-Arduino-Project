@@ -10,6 +10,6 @@ This repository contains all the main files involved in the development of the F
 </p>
 
 Walking Demo:
-[![Walking Demo](https://youtu.be/9EZOrU6Eoao.jpg)](https://youtu.be/9EZOrU6Eoao)
+[![Walking Demo](https://img.youtube.com/vi/9EZOrU6Eoao/mqdefault.jpg)](https://youtu.be/9EZOrU6Eoao)
 Stabilization Demo:
 https://youtu.be/9EZOrU6Eoao
