@@ -8,3 +8,7 @@ This repository contains all the main files involved in the development of the F
 <p align="center">
   <img src="Foto_robot.jpg" alt="hoto of the final prototype" width="50%">
 </p>
+
+Walking Demo:
+[![Video de ejemplo]([https://img.youtube.com/vi/TuIDdelVideo/mqdefault.jpg](https://youtu.be/9EZOrU6Eoao?si=I3d0fAIzqZao3Hmm))]([https://www.youtube.com/watch?v=TuIDdelVideo](https://youtu.be/9EZOrU6Eoao?si=I3d0fAIzqZao3Hmm)https://youtu.be/9EZOrU6Eoao?si=I3d0fAIzqZao3Hmm)
+Stabilization Demo:
