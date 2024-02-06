@@ -12,8 +12,8 @@ This repository contains all the main files involved in the development of the F
 Walking demo video:
 
 <p align="center">
-  <a href="https://youtu.be/9EZOrU6Eoao">
-    <img src="https://img.youtube.com/vi/9EZOrU6Eoao/mqdefault.jpg" alt="Video de ejemplo">
+  <a href="https://www.youtube.com/watch?v=WyaLR0LmY2Y">
+    <img src="https://img.youtube.com/vi/WyaLR0LmY2Y/mqdefault.jpg" alt="Video de ejemplo">
   </a>
 </p>
 
@@ -21,8 +21,8 @@ Walking demo video:
 Stabilization demo video:
 
 <p align="center">
-  <a href="https://youtu.be/RL2hidtPSPY">
-    <img src="https://img.youtube.com/vi/RL2hidtPSPY/mqdefault.jpg" alt="Video de ejemplo">
+  <a href="https://www.youtube.com/watch?v=4yBQPxzZWLo">
+    <img src="https://img.youtube.com/vi/4yBQPxzZWLo/mqdefault.jpg" alt="Video de ejemplo">
   </a>
 </p>
 
